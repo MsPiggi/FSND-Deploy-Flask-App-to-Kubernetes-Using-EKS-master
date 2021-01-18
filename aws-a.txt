@@ -1,0 +1,5 @@
+
+    - groups:
+      - system:masters
+      rolearn: arn:aws:iam::473823228351:role/UdacityFlaskDeployCBKubectlRole
+      username: build
